@@ -10,7 +10,7 @@ function getWeather() {
 
     weatherResult.innerHTML = `
         <p>Weather in <strong>${city}</strong></p>
-        <p>Temperature: 25°C</p>
+        <p>Temperature: 26°C</p>
         <p>Condition: Sunny ☀️</p>
     `;
 }
